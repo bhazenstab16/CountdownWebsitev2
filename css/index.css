@@ -1,0 +1,23 @@
+/* CSS */
+
+
+body
+{
+	text-align:center;
+}
+
+
+#timer
+{
+	background: black;
+	color: white;
+	width:350px;
+	height:100px;
+	font-size:72pt;	
+	text-align: center;
+}
+
+#mainContent
+{
+	margin-top: 50px;
+}
